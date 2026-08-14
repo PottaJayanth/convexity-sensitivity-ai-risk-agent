@@ -71,3 +71,32 @@ Portfolio Risk Aggregation
                                       │
                                       ▼
                               Power BI Dashboard
+# 📸 Dashboard Screenshots
+
+## 1️⃣ Portfolio Risk Overview
+
+![Portfolio Risk Overview](screenshots/01_portfolio_overview.png)
+
+---
+
+## 2️⃣ Interest Rate Stress & Convexity
+
+![Interest Rate Stress Testing](screenshots/02_stress_testing.png)
+
+---
+
+## 3️⃣ Monte Carlo Risk & VaR
+
+![Monte Carlo Risk](screenshots/03_monte_carlo_risk.png)
+
+---
+
+## 4️⃣ Yield Curve Analytics
+
+![Yield Curve Analytics](screenshots/04_yield_curve_analytics.png)
+
+---
+
+## 5️⃣ ML & AI Risk Intelligence
+
+![ML & AI Risk Intelligence](screenshots/05_ml_ai_risk.png)
