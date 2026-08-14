@@ -1,0 +1,7 @@
+Shock_bps,PortfolioValue_INR,WeightedDuration,WeightedConvexity,EstimatedPnL_INR,EstimatedPnL_Pct,VaR_95_INR,CVaR_95_INR,RiskLevel,Recommendation
+50,32059345.97,4.2031,44.0612,-656090.45,-2.0465,1976671.43,2377153.69,MODERATE,The estimated loss is below the 95% VaR threshold. Monitor duration exposure and sector concentration.
+100,32059345.97,4.2031,44.0612,-1276866.58,-3.9828,1976671.43,2377153.69,MODERATE,The estimated loss is below the 95% VaR threshold. Monitor duration exposure and sector concentration.
+200,32059345.97,4.2031,44.0612,-2412475.83,-7.525,1976671.43,2377153.69,CRITICAL,"The estimated loss exceeds the 95% CVaR threshold. Immediate risk review is recommended. Consider duration reduction, portfolio rebalancing, and interest rate hedging."
+-50,32059345.97,4.2031,44.0612,691404.78,2.1566,1976671.43,2377153.69,LOW,The scenario produces a positive or neutral portfolio impact. Continue monitoring interest rate exposure.
+-100,32059345.97,4.2031,44.0612,1418123.9,4.4234,1976671.43,2377153.69,LOW,The scenario produces a positive or neutral portfolio impact. Continue monitoring interest rate exposure.
+-200,32059345.97,4.2031,44.0612,2977505.12,9.2875,1976671.43,2377153.69,LOW,The scenario produces a positive or neutral portfolio impact. Continue monitoring interest rate exposure.
